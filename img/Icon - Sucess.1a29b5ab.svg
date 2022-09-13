@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Frame" width="120" height="120" transform="translate(652 3416.99)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_-_Sucess" data-name="Icon - Sucess" transform="translate(-652 -3416.99)" clip-path="url(#clip-path)">
+    <g id="Icon" transform="translate(652 3417)">
+      <g id="Ellipse" transform="translate(0 -0.01)" fill="none" stroke="#40d963" stroke-width="4">
+        <circle cx="60" cy="60" r="60" stroke="none"/>
+        <circle cx="60" cy="60" r="58" fill="none"/>
+      </g>
+      <path id="Path" d="M335.28,286.12l-32.529,29.358-14.386-14.391" transform="translate(-251.732 -240.708)" fill="none" stroke="#40d963" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Frame" width="24" height="24" transform="translate(384 560)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_-_Saque_Background_" data-name="Icon - Saque (Background)" transform="translate(-384 -560)" clip-path="url(#clip-path)">
+    <g id="Icon">
+      <circle id="Ellipse" cx="12" cy="12" r="12" transform="translate(384 560)" fill="#3e1f29"/>
+      <path id="Path" d="M13.409,5.209V2.4a1.376,1.376,0,0,0-1.372-1.372H2.4A1.376,1.376,0,0,0,1.024,2.4V8.021A1.376,1.376,0,0,0,2.4,9.393H8.088" transform="translate(388.775 566.676)" fill="none" stroke="#d94075" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line" y1="4.344" transform="translate(400.489 573.546)" fill="none" stroke="#d94075" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line-2" data-name="Line" x1="1.694" y2="1.694" transform="translate(398.796 573.546)" fill="none" stroke="#d94075" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line-3" data-name="Line" x2="1.694" y2="1.694" transform="translate(400.49 573.546)" fill="none" stroke="#d94075" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path-2" data-name="Path" d="M15.9,9.121A1.661,1.661,0,1,1,14.243,7.46,1.661,1.661,0,0,1,15.9,9.121Z" transform="translate(381.749 562.764)" fill="none" stroke="#d94075" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

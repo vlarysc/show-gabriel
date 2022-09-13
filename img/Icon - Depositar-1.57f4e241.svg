@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Frame" width="24" height="24" fill="#9b9b9b"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_-_Depositar" data-name="Icon - Depositar" clip-path="url(#clip-path)">
+    <g id="Icon" transform="translate(-1.686 -1.387)">
+      <path id="Path" d="M22.02,8.118V3.35a2.333,2.333,0,0,0-2.326-2.326H3.35A2.333,2.333,0,0,0,1.024,3.35v9.535A2.333,2.333,0,0,0,3.35,15.212H13" transform="translate(2.164 4.232)" fill="none" stroke="#f4f4f4" stroke-linecap="round" stroke-width="1.8"/>
+      <line id="Line" y2="7.364" transform="translate(21.31 15.167)" fill="none" stroke="#f4f4f4" stroke-linecap="round" stroke-width="1.8"/>
+      <line id="Line-2" data-name="Line" x1="2.871" y1="2.871" transform="translate(18.439 19.66)" fill="none" stroke="#f4f4f4" stroke-linecap="round" stroke-width="1.8"/>
+      <line id="Line-3" data-name="Line" y1="2.871" x2="2.871" transform="translate(21.312 19.66)" fill="none" stroke="#f4f4f4" stroke-linecap="round" stroke-width="1.8"/>
+      <path id="Path-2" data-name="Path" d="M18.214,10.276A2.816,2.816,0,1,1,15.4,7.46,2.816,2.816,0,0,1,18.214,10.276Z" transform="translate(-1.712 2.075)" fill="none" stroke="#f4f4f4" stroke-width="1.8"/>
+    </g>
+  </g>
+</svg>

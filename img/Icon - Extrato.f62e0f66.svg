@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Frame" width="24" height="24" fill="#9b9b9b"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_-_Extrato" data-name="Icon - Extrato" clip-path="url(#clip-path)">
+    <g id="Icon" transform="translate(0.189 0.202)">
+      <path id="Path" d="M1,21.253V2.614A1.614,1.614,0,0,1,2.614,1H18.755a1.614,1.614,0,0,1,1.614,1.614V21.268a.4.4,0,0,1-.612.345l-1.92-1.171a1.156,1.156,0,0,0-1.2,0l-1.884,1.028a1.613,1.613,0,0,1-1.678,0l-1.787-1.2a1.158,1.158,0,0,0-1.2,0L8.319,21.463a1.614,1.614,0,0,1-1.641.023L4.726,19.722a1.156,1.156,0,0,0-1.19.024L1.618,21.595A.4.4,0,0,1,1,21.253Z" transform="translate(1.126 0.443)" fill="none" stroke="#9b9b9b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+      <line id="Line" x2="9.362" transform="translate(7.07 6.715)" fill="none" stroke="#9b9b9b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+      <line id="Line-2" data-name="Line" x2="9.362" transform="translate(7.07 10.773)" fill="none" stroke="#9b9b9b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+      <line id="Line-3" data-name="Line" x2="4.736" transform="translate(7.07 14.828)" fill="none" stroke="#9b9b9b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Frame" width="24" height="24" fill="#161616"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_-_Início" data-name="Icon - Início" clip-path="url(#clip-path)">
+    <g id="Icon" transform="translate(2.975 2.569)">
+      <path id="Path" d="M1,8.9V19.048a2.559,2.559,0,0,0,2.56,2.559H18.1a2.559,2.559,0,0,0,2.56-2.559V9.02a2.559,2.559,0,0,0-.935-1.978L12.585,1.6A2.941,2.941,0,0,0,9.037,1.59L1.951,6.912A2.56,2.56,0,0,0,1,8.9Z" transform="translate(-1.802 -1.872)" fill="none" stroke="#9b9b9b" stroke-width="1.8"/>
+      <path id="Path-2" data-name="Path" d="M15.748,24.725V16.641a1.557,1.557,0,0,0-1.557-1.557H11.36A1.558,1.558,0,0,0,9.8,16.641v8.083" transform="translate(-3.751 -4.99)" fill="none" stroke="#9b9b9b" stroke-width="1.8"/>
+    </g>
+  </g>
+</svg>
